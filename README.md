@@ -1,6 +1,3 @@
-Codeigniter-HMVC-example
+Codeigniter Demo for REST and HMVC
 ========================
 
-
-User: admin@admin.com
-Pass: admin
