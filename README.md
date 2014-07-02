@@ -1,4 +1,6 @@
-ci_rest_server_demo
-===================
+Codeigniter-HMVC-example
+========================
 
-demo for REST server/client setup using codeigniter
+
+User: admin@admin.com
+Pass: admin
